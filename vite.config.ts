@@ -5,7 +5,7 @@ import tailwindcss from "@tailwindcss/vite"
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/braveray/',
+  base: '/braveray-outsourcing-site/',
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {

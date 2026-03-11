@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://braveray.top/customization/sitemap.xml
+Sitemap: https://www.braveray.top/customization/sitemap.xml
